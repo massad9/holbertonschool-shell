@@ -1,3 +1,36 @@
+shell basics script
+
+the directory contain path secript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Shell Basics — Scripts
 
 ## Description
