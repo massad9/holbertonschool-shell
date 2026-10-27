@@ -1,3 +1,10 @@
+
+#2 there is no place like home
+the script 2-bring_me_home change the currently working directory
+
+
+
+
 shell basics script
 
 the directory contain path secript
