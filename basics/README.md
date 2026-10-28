@@ -1,3 +1,11 @@
+#7 move the betty file to my_first_direcory 
+
+
+
+
+
+
+
 #6 create script make directory 
 
 
