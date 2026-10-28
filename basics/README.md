@@ -1,3 +1,11 @@
+#5 display directory content
+long format
+with user and id groups
+and hidden files 
+
+
+
+
 #4 diplay hidden files
 
 
