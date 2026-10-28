@@ -1,3 +1,8 @@
+#8 delete file 
+
+
+
+
 #7 move the betty file to my_first_direcory 
 
 
