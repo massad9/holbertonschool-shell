@@ -1,3 +1,9 @@
+#4 diplay hidden files
+
+
+
+
+
 #3 Display current directory contents in a long format
 
 

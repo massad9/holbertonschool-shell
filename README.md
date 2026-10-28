@@ -1,4 +1,4 @@
-
+display current long format 
 
 
 
