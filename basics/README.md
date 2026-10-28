@@ -1,3 +1,8 @@
+#9 delete  Bye bye My first directory
+
+
+
+
 #8 delete file 
 
 
