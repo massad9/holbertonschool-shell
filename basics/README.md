@@ -1,3 +1,7 @@
+#6 create script make directory 
+
+
+
 #5 display directory content
 long format
 with user and id groups
