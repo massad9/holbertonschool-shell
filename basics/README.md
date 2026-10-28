@@ -1,3 +1,14 @@
+#3 Display current directory contents in a long format
+
+
+
+
+
+
+
+
+
+
 
 #2 there is no place like home
 the script 2-bring_me_home change the currently working directory
