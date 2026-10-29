@@ -1,3 +1,12 @@
+12#file type 
+
+
+
+
+
+
+
+
 #9 delete  Bye bye My first directory
 
 
